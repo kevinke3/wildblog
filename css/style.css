@@ -271,7 +271,7 @@ nav {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  filter: blur(15px) brightness(0.4);
+  filter: blur(1px) brightness(0.4);
   transform: scale(1.05);
   pointer-events: none;
 }
