@@ -34,7 +34,7 @@ window.blogData = {
   title: "Elephants at Dusk",
   date: "2026-02-10",
   excerpt: "A herd approaches the watering hole as the sun sets.",
-  image: "images/elepants.jpg",
+  image: "images/download (28).jpg",
   content: `
     <p>The sky burned orange as the sun leaned toward the horizon, stretching shadows across the savanna like long fingers. Heat still radiated from the earth, but the promise of evening relief lingered in the breeze.</p>
 
